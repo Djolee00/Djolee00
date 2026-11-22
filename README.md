@@ -2,7 +2,11 @@
 
 # Hi there, I'm Djordje Ivanovic 👋
 
-**Backend Team Lead • Software Engineer • SaaS Co-Founder**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Team+Lead+%40+Inception;Co-Founder+%26+Tech+Partner+%40+PositionAlpha;Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djordje-ivanovic-00)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanovic.dj00@gmail.com)
@@ -67,4 +71,6 @@ I'm a backend-focused software engineer based in **Belgrade, Serbia**, working p
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Djolee00&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Djolee00/Djolee00/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
