@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend-focused software engineer based in **Belgrade, Serbia**, working primarily with **Java, Spring Boot, microservices, and AWS**. I enjoy building reliable backend systems, writing clean, maintainable code, and taking products from an idea to production.
+I'm a backend-focused software engineer based in **Belgrade, Serbia**, working primarily with **Java, Spring Boot, microservices, and AWS**[cite: 1]. I enjoy building reliable backend systems, writing clean, maintainable code, and taking products from an idea to production[cite: 1].
 
-* 🔭 **Backend Team Lead @ Inception** — Leading a team of 3 backend engineers building a platform for qualified e-invoice delivery and electronic document storage. Hands-on with code, sprint planning, code reviews, and decoupling complex business logic.
-* 🚀 **Co-Founder & Technical Partner @ PositionAlpha** — Built and maintain the full technical stack of a market analysis and MQL4/MQL5 strategy generation platform (React, Node.js/TypeScript, PostgreSQL, AWS CloudFormation/SAM).
-* 🎓 **Education** — MSc in Information Technologies & Cyber Security and BSc in Information Systems & Technologies at FON, University of Belgrade (**10.0/10.0 GPA** in both).
-* 💡 **Interests** — Clean code & hexagonal design, OAuth 2.0 security, event-driven processing, AWS infrastructure, and mentoring developers.
+* 🔭 **Backend Team Lead @ Inception** — Leading a team of 3 backend engineers building a platform for qualified e-invoice delivery and electronic document storage[cite: 1]. Hands-on with code, sprint planning, code reviews, and decoupling complex business logic[cite: 1].
+* 🚀 **Co-Founder & Technical Partner @ PositionAlpha** — Built and maintain the full technical stack of a market analysis and MQL4/MQL5 strategy generation platform (React, Node.js/TypeScript, PostgreSQL, AWS CloudFormation/SAM)[cite: 1].
+* 🎓 **Education** — MSc in Information Technologies & Cyber Security and BSc in Information Systems & Technologies at FON, University of Belgrade (**10.0/10.0 GPA** in both)[cite: 1].
+* 💡 **Interests** — Clean code & hexagonal design, OAuth 2.0 security, event-driven processing, AWS infrastructure, and mentoring developers[cite: 1].
 
 ---
 
@@ -59,15 +59,12 @@ I'm a backend-focused software engineer based in **Belgrade, Serbia**, working p
 
 ### 💻 What I've Been Working On
 
-* **Clean Backend Design:** Applied hexagonal architecture (ports and adapters) in production services to keep core domain logic independent from persistence layers (MongoDB / JPA).
-* **End-to-End SaaS Delivery:** Built PositionAlpha from scratch, setting up separate test/prod AWS environments via CloudFormation & SAM, GitHub Actions CI/CD with OIDC, Stripe billing, and Claude API integrations.
-* **Service Modernization & Security:** Upgraded legacy services to Spring Boot 3/4, migrated caching from Hazelcast to Redis, implemented RabbitMQ async workflows, and built OAuth 2.0 Resource Servers with custom Java SDKs.
+* **Clean Backend Design:** Applied hexagonal architecture (ports and adapters) in production services to keep core domain logic independent from persistence layers (MongoDB / JPA)[cite: 1].
+* **End-to-End SaaS Delivery:** Built PositionAlpha from scratch, setting up separate test/prod AWS environments via CloudFormation & SAM, GitHub Actions CI/CD with OIDC, Stripe billing, and Claude API integrations[cite: 1].
+* **Service Modernization & Security:** Upgraded legacy services to Spring Boot 3/4, migrated caching from Hazelcast to Redis, implemented RabbitMQ async workflows, and built OAuth 2.0 Resource Servers with custom Java SDKs[cite: 1].
 
 ---
 
-### 📊 GitHub Activity
-
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Djolee00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djolee00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Djolee00&theme=tokyonight&hide_border=true" />
 </div>
