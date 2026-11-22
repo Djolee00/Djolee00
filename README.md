@@ -2,7 +2,7 @@
 
 # Hi there, I'm Djordje Ivanovic 👋
 
-**Backend Team Lead • SaaS Co-Founder • Cloud & Microservices Architect**
+**Backend Team Lead • Software Engineer • SaaS Co-Founder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/djordje-ivanovic-00)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanovic.dj00@gmail.com)
@@ -14,18 +14,18 @@
 
 ### 👨‍💻 About Me
 
-I am a backend-focused software engineer and technical leader based in **Belgrade, Serbia**, specializing in **Java, Spring ecosystems, distributed microservices, and AWS infrastructure**.
+I'm a backend-focused software engineer based in **Belgrade, Serbia**, working primarily with **Java, Spring Boot, microservices, and AWS**. I enjoy building reliable backend systems, writing clean, maintainable code, and taking products from an idea to production.
 
-* 🔭 **Backend Team Lead @ Inception** — Leading a team of backend engineers building a platform for qualified e-invoice delivery and electronic document storage. Focused on system architecture, hexagonal design, high-throughput messaging, and code quality.
-* 🚀 **Co-Founder & Technical Partner @ PositionAlpha** — Owning the end-to-end technical execution of an AI-assisted market analysis and MQL4/MQL5 trading strategy platform (React, Node.js/TypeScript, PostgreSQL, AWS CloudFormation/SAM).
-* 🎓 **Academic Background** — MSc in Information Technologies & Cyber Security and BSc in Information Systems & Technologies at FON, University of Belgrade (**10.0/10.0 GPA** in both).
-* 💡 **Core Focus** — Clean architecture (Ports & Adapters), OAuth 2.0 security, event-driven systems, Infrastructure as Code (IaC), and mentoring engineers.
+* 🔭 **Backend Team Lead @ Inception** — Leading a team of 3 backend engineers building a platform for qualified e-invoice delivery and electronic document storage[cite: 1]. Hands-on with code, sprint planning, code reviews, and decoupling complex business logic[cite: 1].
+* 🚀 **Co-Founder & Technical Partner @ PositionAlpha** — Built and maintain the full technical stack of a market analysis and MQL4/MQL5 strategy generation platform (React, Node.js/TypeScript, PostgreSQL, AWS CloudFormation/SAM)[cite: 1].
+* 🎓 **Education** — MSc in Information Technologies & Cyber Security and BSc in Information Systems & Technologies at FON, University of Belgrade (**10.0/10.0 GPA** in both)[cite: 1].
+* 💡 **Interests** — Clean code & hexagonal design, OAuth 2.0 security, event-driven processing, AWS infrastructure, and mentoring developers[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Architecture**
+**Backend & Web**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -46,7 +46,7 @@ I am a backend-focused software engineer and technical leader based in **Belgrad
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
-**Cloud, DevOps & Infrastructure**
+**Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -57,12 +57,11 @@ I am a backend-focused software engineer and technical leader based in **Belgrad
 
 ---
 
-### 🏗️ Architectural Highlights
+### 💻 What I've Been Working On
 
-* **Hexagonal Architecture (Ports & Adapters):** Decoupled core business logic from persistence layers (supporting seamless switching between MongoDB and JPA).
-* **AWS Cloud-Native Setup:** Multi-account AWS environments (Test/Prod) provisioned via CloudFormation & SAM (EC2, RDS, S3, CloudFront, Lambda, EventBridge, VPC, IAM, SSM, CloudWatch, SES) with OIDC-based CI/CD pipelines.
-* **Security & SDKs:** Designed OAuth 2.0 Resource Servers and custom internal Java SDKs to standardize inter-service communication.
-* **High Performance & Async:** Migrated legacy services to Spring Boot 3/4, transitioned distributed caching from Hazelcast to Redis, and orchestrated async workflows via RabbitMQ.
+* **Clean Backend Design:** Applied hexagonal architecture (ports and adapters) in production services to keep core domain logic independent from persistence layers (MongoDB / JPA)[cite: 1].
+* **End-to-End SaaS Delivery:** Built PositionAlpha from scratch, setting up separate test/prod AWS environments via CloudFormation & SAM, GitHub Actions CI/CD with OIDC, Stripe billing, and Claude API integrations[cite: 1].
+* **Service Modernization & Security:** Upgraded legacy services to Spring Boot 3/4, migrated caching from Hazelcast to Redis, implemented RabbitMQ async workflows, and built OAuth 2.0 Resource Servers with custom Java SDKs[cite: 1].
 
 ---
 
